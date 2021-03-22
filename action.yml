@@ -63,9 +63,7 @@ inputs:
     required: false
   toplevel:
     description: 'teams'
-    required: false
-  
-    
+    required: false    
  
 # outputs:
 #   time: # id of output
